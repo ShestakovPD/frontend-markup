@@ -1,0 +1,14 @@
+@font-face {
+font-family: "RalewayRegular";  
+src: url("../fonts/RalewayRegular.ttf") format("truetype"); 
+font-style: normal; 
+font-weight: normal;
+ }
+
+@font-face {
+font-family: "AvantGardeCE";  
+src: url("../fonts/AGD.ttf") format("truetype"); 
+font-style: normal; 
+font-weight: normal;
+ }
+
